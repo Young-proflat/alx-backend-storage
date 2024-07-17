@@ -1,0 +1,2 @@
+// Insert a document in school colection. //db.createCollection("school")
+db.school.insert({name: 'Holberton school"});
